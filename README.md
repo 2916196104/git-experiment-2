@@ -10,3 +10,11 @@
 
 ## 实验进度
 实验进度：主分支和功能分支已成功合并
+
+
+
+## GitHub Pull Request 协作实验
+
+本次实验通过 GitHub 创建功能分支，
+修改 README 文件并提交 Pull Request，
+最后将功能分支合并到 main 分支。
